@@ -1,6 +1,7 @@
 # Apaya — Asisten Harian
 
 Aplikasi desktop Electron untuk mencatat aktivitas, menulis refleksi, dan berbincang dengan AI pilihanmu.
+<img width="1920" height="999" alt="Screenshot_20261110_122716" src="https://github.com/user-attachments/assets/ee7e45b9-63d1-4c54-b878-424832f93b92" />
 
 ## Menjalankan
 
